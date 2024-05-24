@@ -1,4 +1,4 @@
-Google Cloud's converter converter converts audio file to text. The result is a json encoded data.
+Google Cloud's converter converts audio file to text. The result is a json encoded data.
 
 This script will extract only the 'transcript' elemets from the json data file and print it out.
 
