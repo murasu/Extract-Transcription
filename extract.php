@@ -1,7 +1,7 @@
 <?php
 
 // Save the json data into a text file and set the filename here
-$file_name = "transcribed.json";
+$file_name = "transcripts_SS Sarma_transcript_6680cf4f-0000-28ed-b528-24058880af50.json";
 
 $myfile = fopen($file_name, "r") or die("Unable to open file!");
 $json_data = fread($myfile,filesize($file_name));
